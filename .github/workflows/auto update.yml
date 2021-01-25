@@ -14,7 +14,7 @@ jobs:
       
       - name: clean
         run: |
-          head -n -2 README.md > README.md.tmp
+          head -n -1 README.md > README.md.tmp
           rm README.md
           cat README.md.tmp > README.md
           rm README.md.tmp
