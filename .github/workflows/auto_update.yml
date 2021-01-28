@@ -15,7 +15,7 @@ jobs:
       - name: clean
         run: |
           cd ~
-          mkdir work
+          mkdir .workdir
           ls -al
           head -n -1 README.md > README.md.tmp
           rm README.md
