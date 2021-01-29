@@ -6,7 +6,7 @@
 
 [Personal Blog](https://lemon-mint.github.io/)
 
-[![Tiny-Auth-Service](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&repo=Tiny-Auth-Service)](https://github.com/lemon-mint/Tiny-Auth-Service)
+[![Tiny-Auth-Service](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&repo=Tiny-Auth-Service&theme=radical)](https://github.com/lemon-mint/Tiny-Auth-Service)
 
 ------
 Last update Fri Jan 29 20:30:12 UTC 2021
