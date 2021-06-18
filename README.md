@@ -10,4 +10,4 @@
 [![Light-File-Crypt](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=Light-File-Crypt)](https://github.com/lemon-mint/Light-File-Crypt)
 
 ------
-Last update Thu Jun 17 12:43:32 UTC 2021
+Last update Fri Jun 18 01:20:55 UTC 2021
