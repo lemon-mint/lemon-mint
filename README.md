@@ -1,5 +1,6 @@
 ------
 
+[![UTC](https://time.vlue.dev/api/badge?tz=UTC&version=0)](https://time.vlue.dev)
 [![Date](https://time.vlue.dev/api/badge?tz=Asia/Seoul&version=0)](https://time.vlue.dev)
 [![Personal Blog](https://img.shields.io/badge/-BLOG-brightgreen?style=for-the-badge)](https://vlue.dev/)
 
