@@ -9,6 +9,7 @@
 [![Golang](https://badge3.vlue.dev/badge/forthebadge?message=go&label=language&color=007d9c)](https://go.dev/)
 [![TS](https://badge3.vlue.dev/badge/forthebadge?message=ts&label=language&color=2f74c0)](https://www.typescriptlang.org/)
 [![JS](https://badge3.vlue.dev/badge/forthebadge?message=js&label=language&color=ead41c&textcolor=3a3a3a)](https://openjsf.org/)
+[![C](https://badge3.vlue.dev/badge/forthebadge?message=c&label=language&color=a9bacd&textcolor=3a3a3a)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://badge3.vlue.dev/badge/forthebadge?message=python&label=language&color=2b5b84)](https://www.python.org/)
 
 [![Tiny-Auth-Service](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=Tiny-Auth-Service)](https://github.com/lemon-mint/Tiny-Auth-Service)
