@@ -13,6 +13,8 @@
 [![JS](https://badge3.vlue.dev/badge/forthebadge?message=js&color=ead41c&textcolor=3a3a3a)](https://openjsf.org/)
 [![Python](https://badge3.vlue.dev/badge/forthebadge?message=python&color=2b5b84)](https://www.python.org/)
 
+[![blackmagic](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=blackmagic)](https://github.com/lemon-mint/blackmagic)
+[![libuseful](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=libuseful)](https://github.com/lemon-mint/libuseful)
 [![Tiny-Auth-Service](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=Tiny-Auth-Service)](https://github.com/lemon-mint/Tiny-Auth-Service)
 [![Light-File-Crypt](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=Light-File-Crypt)](https://github.com/lemon-mint/Light-File-Crypt)
 
