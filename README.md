@@ -1,10 +1,11 @@
 ------
 
+[![Unsafe 100%](https://img.shields.io/badge/unsafe-100%25-orange?style=for-the-badge)](https://pkg.go.dev/unsafe)
 [![Personal Blog](https://badge3.vlue.dev/badge/forthebadge?message=blog&color=44cc11)](https://vlue.dev/)
 [![UTC](https://time.vlue.dev/api/badge?tz=UTC&version=0&color=44cc11)](https://time.vlue.dev)
 [![Date](https://time.vlue.dev/api/badge?tz=Asia/Seoul&version=0&color=44cc11)](https://time.vlue.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemon-mint&layout=compact)](https://github.com/lemon-mint?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemon-mint&theme=dracula&layout=compact)](https://github.com/lemon-mint?tab=repositories)
 
 ------
 
