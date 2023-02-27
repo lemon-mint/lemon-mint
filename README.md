@@ -11,7 +11,7 @@
 
 [![blackmagic](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=blackmagic)](https://github.com/lemon-mint/blackmagic)
 [![libuseful](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=libuseful)](https://github.com/lemon-mint/libuseful)
-[![Tiny-Auth-Service](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=Tiny-Auth-Service)](https://github.com/lemon-mint/Tiny-Auth-Service)
+[![Tiny-Auth-Service](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=gopkg.eu.org)](https://github.com/lemon-mint/gopkg.eu.org)
 [![Light-File-Crypt](https://github-readme-stats.vercel.app/api/pin/?username=lemon-mint&theme=dracula&repo=Light-File-Crypt)](https://github.com/lemon-mint/Light-File-Crypt)
 
 ------
