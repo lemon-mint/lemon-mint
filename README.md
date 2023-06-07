@@ -5,7 +5,7 @@
 [![UTC](https://time.vlue.dev/api/badge?tz=UTC&version=0&color=44cc11)](https://time.vlue.dev)
 [![Date](https://time.vlue.dev/api/badge?tz=Asia/Seoul&version=0&color=44cc11)](https://time.vlue.dev)
 
-[![CAPTCHA](https://captcha.lmmt.eu.org?cache=v1)](https://captcha.lmmt.eu.org/)
+[![CAPTCHA](https://captcha.lmmt.eu.org?cache=v2)](https://captcha.lmmt.eu.org/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemon-mint&theme=dracula&layout=compact)](https://github.com/lemon-mint?tab=repositories)
 
