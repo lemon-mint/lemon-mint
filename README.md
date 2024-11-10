@@ -1,3 +1,11 @@
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/lemon-mint"
+  width="600"
+  height="300"
+/>
+</a>
+
 ------
 
 [![Unsafe 100%](https://img.shields.io/badge/unsafe-100%25-orange?style=for-the-badge)](https://pkg.go.dev/unsafe)
